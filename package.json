@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "@types/react": "^18.3.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai-edge": "^1.2.2"
+  }
+}
